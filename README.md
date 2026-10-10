@@ -4,7 +4,7 @@
   <img alt="Samuel Neveu. Code, designed as an agentic system." src="assets/banner-dark.svg" width="100%">
 </picture>
 
-[Portfolio](https://samuel-neveu-ios.vercel.app) · [Book a call](https://cal.com/samuel-neveu-zxnzgm) · [LinkedIn](https://linkedin.com/in/samuel-neveu-29b7b0217) · [Malt](https://www.malt.fr/profile/samuelneveu) · [samuel.neveugall@gmail.com](mailto:samuel.neveugall@gmail.com)
+[Portfolio](https://samuelneveu.com) · [Book a call](https://cal.com/samuel-neveu-zxnzgm) · [LinkedIn](https://linkedin.com/in/samuel-neveu-29b7b0217) · [Malt](https://www.malt.fr/profile/samuelneveu) · [samuel.neveugall@gmail.com](mailto:samuel.neveugall@gmail.com)
 
 I'm Samuel, a freelance iOS engineer between Paris and Rennes. Four years of native Swift and SwiftUI: apps on the App Store and Google Play, 500K+ users across them, not one App Store rejection, and a stretch on HelloWork's app (4M+ monthly users).
 
