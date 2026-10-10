@@ -18,6 +18,12 @@ Since 2026, every mission I take is built with Claude Code. My weeks split three
 
 An AI harness for Claude Code. A request goes in, and a team of agents takes it from spec to plan to tested code, with a reviewer, an auditor and a design judge that never grade their own work. I wrote 1,600+ of its commits. It's how I shipped Somfy's Play Lab: 862 tests, 9 TestFlight builds, about 850 commits in three months.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/vibeflow-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/vibeflow-light.svg">
+  <img alt="VibeFlow OS pipeline: request, spec, plan, code, then review by a different agent that can send the work back, then ship." src="assets/vibeflow-light.svg" width="100%">
+</picture>
+
 My working rule: an agent without evals is a demo.
 
 ### Also open
