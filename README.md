@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Samuel Neveu. Code, designed as an agentic system." src="assets/header-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Samuel Neveu. Code, designed as an agentic system." src="assets/banner-dark.svg" width="100%">
 </picture>
 
 [Portfolio](https://samuel-neveu-ios.vercel.app) · [Book a call](https://cal.com/samuel-neveu-zxnzgm) · [LinkedIn](https://linkedin.com/in/samuel-neveu-29b7b0217) · [Malt](https://www.malt.fr/profile/samuelneveu) · [samuel.neveugall@gmail.com](mailto:samuel.neveugall@gmail.com)
