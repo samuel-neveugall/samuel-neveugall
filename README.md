@@ -24,6 +24,8 @@ An AI harness for Claude Code. A request goes in, and a team of agents takes it 
   <img alt="VibeFlow OS pipeline: request, spec, plan, code, then review by a different agent that can send the work back, then ship." src="assets/vibeflow-light.svg" width="100%">
 </picture>
 
+https://github.com/user-attachments/assets/31709de8-a2c0-4e7c-b78e-8328f57e3f43
+
 My working rule: an agent without evals is a demo.
 
 ### Also open
